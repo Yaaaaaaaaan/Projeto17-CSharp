@@ -15,6 +15,8 @@ namespace Projeto17
 
             Console.WriteLine(s1);
             Console.WriteLine(s2);
+
+            Console.ReadLine();
         }
     }
 }
